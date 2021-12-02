@@ -1,0 +1,13 @@
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\bin\Debug\netcoreapp3.1\phone_assignment.exe
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\bin\Debug\netcoreapp3.1\phone_assignment.deps.json
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\bin\Debug\netcoreapp3.1\phone_assignment.runtimeconfig.json
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\bin\Debug\netcoreapp3.1\phone_assignment.runtimeconfig.dev.json
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\bin\Debug\netcoreapp3.1\phone_assignment.dll
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\bin\Debug\netcoreapp3.1\phone_assignment.pdb
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\obj\Debug\netcoreapp3.1\phone_assignment.csprojAssemblyReference.cache
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\obj\Debug\netcoreapp3.1\phone_assignment.AssemblyInfoInputs.cache
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\obj\Debug\netcoreapp3.1\phone_assignment.AssemblyInfo.cs
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\obj\Debug\netcoreapp3.1\phone_assignment.csproj.CoreCompileInputs.cache
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\obj\Debug\netcoreapp3.1\phone_assignment.dll
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\obj\Debug\netcoreapp3.1\phone_assignment.pdb
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\phone_assignment\obj\Debug\netcoreapp3.1\phone_assignment.genruntimeconfig.cache
